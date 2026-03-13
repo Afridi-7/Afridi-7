@@ -20,18 +20,16 @@ Currently experimenting with:
 ![](https://komarev.com/ghpvc/?username=Afridi-7&color=blue)
 
 ---
-
-## 🚀 GitHub Stats
-
-![Afridi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afridi-7&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Afridi-7&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
+
+## 🚀 GitHub Stats
+
+![Afridi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afridi-7&show_icons=true&theme=tokyonight)
+
 
 ## 📊 Most Used Languages
 
@@ -43,11 +41,6 @@ Currently experimenting with:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Afridi-7&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 📈 Contribution Graph
-
-[![Afridi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afridi-7&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -68,12 +61,5 @@ Currently experimenting with:
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Afridi-7/Afridi-7/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ From [Afridi-7](https://github.com/Afridi-7)
