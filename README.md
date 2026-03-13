@@ -20,46 +20,34 @@ Currently experimenting with:
 ![](https://komarev.com/ghpvc/?username=Afridi-7&color=blue)
 
 ---
-## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Afridi-7&theme=tokyonight)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afridi-7&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afridi-7&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-## 🚀 GitHub Stats
+## 🔥 GitHub Streak
 
-![Afridi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afridi-7&show_icons=true&theme=tokyonight)
-
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afridi-7&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Afridi-7&theme=tokyonight" width="60%" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Afridi-7&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Afridi-7&theme=tokyonight&row=1&column=6"/>
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 📈 Contribution Graph
 
-### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afridi-7&theme=tokyo-night"/>
 
-### Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn)
-
-### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-
-
-⭐ From [Afridi-7](https://github.com/Afridi-7)
+---
