@@ -1,6 +1,13 @@
-# Hello , 👋 I'm Afridi
+<!-- =============================================== -->
+<!--  Qudrat Ullah — AI Engineer / Math / AI Profile  -->
+<!--  Repo: Afridi-7/profile                -->
+<!-- =============================================== -->
 
-🧠 Computer Science Student exploring the frontier of Agentic AI
+<h1 align="center">Qudrat Ullah</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=AI+Engineer;BSc+Computer+Science+Student+%40+University+of+Debrecen;Software+Enginner+%7C+Cloud+%7C;Building+Intelligent+Systems;OpenGL+%26" />
+</p>
 
 I like building intelligent systems that combine Deep Learning, Computer Vision, and LLM reasoning.
 
