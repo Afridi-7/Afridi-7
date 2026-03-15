@@ -14,6 +14,7 @@ Currently experimenting with:
 ⚡ Medical AI & Computer Vision
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Afridi-7&show_icons=true)
 
 ## 👁 Profile Visitors
 
