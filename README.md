@@ -6,7 +6,7 @@
 <h1 align="center">Qudrat Ullah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=AI+Engineer;BSc+Computer+Science+Student+%40+University+of+Debrecen;Software+Enginner7C;Building+Intelligent+Systems;%26" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=AI+Engineer;BSc+Computer+Science+Student+%40+University+of+Debrecen;Software+Enginner;Building+Intelligent+Systems;" />
 </p>
 
 I like building intelligent systems that combine Deep Learning, Computer Vision, and LLM reasoning.
