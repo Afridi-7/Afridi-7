@@ -18,6 +18,10 @@ Currently experimenting with:
 
 ![](https://komarev.com/ghpvc/?username=Afridi-7&color=blue)
 
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/linkedin.com/in/qudrat-ullah-4b3794349)
+
 ---
 
 ## 🔥 GitHub Streak
