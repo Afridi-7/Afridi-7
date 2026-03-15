@@ -16,11 +16,7 @@ Currently experimenting with:
 ---
 ## 👁 Profile Visitors
 
-![](https://komarev.com/ghpvc/?username=Afridi-7&color=blue)
-
-### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afridi--7-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/linkedin.com/in/qudrat-ullah-4b3794349)
+![](https://komarev.com/ghpvc/?username=Afridi-7&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/qudrat-ullah-4b3794349)
 
 ---
 
