@@ -14,10 +14,9 @@ Currently experimenting with:
 ⚡ Medical AI & Computer Vision
 
 ---
-## 👁 Profile Visitors
-
-![](https://komarev.com/ghpvc/?username=Afridi-7&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/qudrat-ullah-4b3794349)
-
+| 👁 Profile Visitors | 🔗 Connect With Me |
+|---------------------|--------------------|
+| ![](https://komarev.com/ghpvc/?username=Afridi-7&color=blue) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/qudrat-ullah-4b3794349) |
 ---
 
 ## 🔥 GitHub Streak
