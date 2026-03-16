@@ -56,4 +56,6 @@ Applying deep learning techniques to medical imaging and diagnostic tasks.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afridi-7&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afridi-7&theme=github-dark"/>
+
 ---
