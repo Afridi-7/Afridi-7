@@ -38,9 +38,9 @@ Building systems that connect visual understanding with language reasoning.
 Applying deep learning techniques to medical imaging and diagnostic tasks.
 
 ---
-| 👁 Profile Visitors | 🔗 LinkedIn | 📧 Email | 📱 Phone |
-|---------------------|------------|---------|---------|
-| ![](https://komarev.com/ghpvc/?username=Afridi-7&color=blue) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/qudrat-ullah-4b3794349) | [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:qkafridi7@gmail.com) | +36-702-819-179 |
+| 👁 Profile Visitors | 🔗 LinkedIn | 📧 Email | 💬 WhatsApp |
+|---------------------|------------|---------|-------------|
+| ![](https://komarev.com/ghpvc/?username=Afridi-7&color=blue) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/qudrat-ullah-4b3794349) | [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:qkafridi7@gmail.com) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/36702819179) |
 ---
 
 ## 🔥 GitHub Streak
