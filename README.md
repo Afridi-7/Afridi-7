@@ -1,9 +1,42 @@
-<!-- =============================================== -->
-<!--  Qudrat Ullah — AI Engineer / Math / AI Profile  -->
-<!--  Repo: Afridi-7/profile                -->
-<!-- =============================================== -->
+<!-- TOP BANNER -->
+<div align="center">
 
-<h1 align="center">Qudrat Ullah</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=220&section=header&text=Qudrat%20Ullah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Researcherr&descAlignY=55&descSize=18"/>
+
+</div>
+
+<h2 align="center" style="color:#22c55e;">
+AI Engineer | Agentic AI Researcher
+</h2>
+
+<!-- BUTTONS -->
+<div align="center">
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/qudrat-ullah-4b3794349">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="mailto:qkafridi7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/+36702819179">
+  <img src="https://img.shields.io/badge/WhatsApp-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=22c55e&style=flat" />
+</p>
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=AI+Engineer;BSc+Computer+Science+Student+%40+University+of+Debrecen;Software+Enginner;Building+Intelligent+Systems;" />
@@ -36,12 +69,6 @@ Building systems that connect visual understanding with language reasoning.
 
 ⚡ **Medical AI & Computer Vision**  
 Applying deep learning techniques to medical imaging and diagnostic tasks.
-
----
-| 👁 Profile Visitors | 🔗 LinkedIn | 📧 Email | 💬 WhatsApp |
-|---------------------|------------|---------|-------------|
-| ![](https://komarev.com/ghpvc/?username=Afridi-7&color=blue) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/qudrat-ullah-4b3794349) | [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:qkafridi7@gmail.com) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/36702819179) |
----
 
 ## 🔥 GitHub Streak
 
