@@ -3,7 +3,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=220&section=header&text=Qudrat%20Ullah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Researcherr&descAlignY=55&descSize=18"/>
 
-</div>
+</div> 
 
 
 <p align="center">
