@@ -117,3 +117,4 @@ Applying deep learning techniques to medical imaging and diagnostic tasks.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afridi-7&theme=github-dark"/>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Afridi-7&repo=Drafter&theme=tokyonight&v=1" />
