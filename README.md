@@ -68,6 +68,41 @@ Building systems that connect visual understanding with language reasoning.
 ⚡ **Medical AI & Computer Vision**  
 Applying deep learning techniques to medical imaging and diagnostic tasks.
 
+
+
+<!-- FEATURED PROJECTS -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/Afridi-7/Drafter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afridi-7&repo=Drafter&theme=tokyonight&border_radius=12&title_color=22c55e&icon_color=22c55e"/>
+</a>
+
+<a href="https://github.com/Afridi-7/afridi-ai-chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afridi-7&repo=afridi-ai-chatbot&theme=tokyonight&border_radius=12&title_color=22c55e&icon_color=22c55e"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Afridi-7/ViT-vs-ResNet-18">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afridi-7&repo=ViT-vs-ResNet-18&theme=tokyonight&border_radius=12&title_color=22c55e&icon_color=22c55e"/>
+</a>
+
+<a href="https://github.com/Afridi-7/BSc_Thesis ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afridi-7&repo=BSc_Thesis &theme=tokyonight&border_radius=12&title_color=22c55e&icon_color=22c55e"/>
+</a>
+
+</p>
+
+
+
+
+
+
+
 ## 🔥 GitHub Streak
 
 <p align="center">
