@@ -5,9 +5,10 @@
 
 </div>
 
-<h2 align="center" style="color:#22c55e;">
-AI Engineer | Agentic AI Researcher
-</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=AI+Engineer;BSc+Computer+Science+Student+%40+University+of+Debrecen;Software+Enginner;Building+Intelligent+Systems;" />
+</p>
 
 <!-- BUTTONS -->
 <div align="center">
@@ -38,9 +39,6 @@ AI Engineer | Agentic AI Researcher
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=AI+Engineer;BSc+Computer+Science+Student+%40+University+of+Debrecen;Software+Enginner;Building+Intelligent+Systems;" />
-</p>
 
 ## What I Build
 
